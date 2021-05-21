@@ -12,7 +12,7 @@ clinet.run("YourBotTokenHere")
 ```
 > `3` type in terminal 
 ```py
-# python3 kingman.py
+# python3 main.py
 ```
 > `4` Now the bot works
 #### Bot Host
@@ -30,7 +30,7 @@ clinet.run("YourBotTokenHere")
 ```
 > `3` اكتب في ترمنال او سي ام دي 
 ```py
-# python3 kingman.py
+# python3 main.py
 ```
 > `4` هيشتغل معك البوت
 #### تشغيل البوت 24 ساعة 
