@@ -16,7 +16,7 @@ clinet.run("YourBotTokenHere")
 ```
 > `4` Now the bot works
 #### Bot Host
-> `Repl.it` To make the bot work 24 hours I advise you to use the [repl.it]( https://repl.it/github/KM-KINGMAN/Weather-Bot ) Host Site
+> `Repl.it` To make the bot work 24 hours I advise you to use the [repl.it]( https://repl.it/github/kmkingman/Weather-Bot ) Host Site
 # بوت الحالة الجوية
 بوت الطقس هو بوت انشائه KINGMAN لعرض الحالة الجوية في مدينة معينة في ديسكورد
 #### سيتاب لوكال
@@ -34,4 +34,4 @@ clinet.run("YourBotTokenHere")
 ```
 > `4` هيشتغل معك البوت
 #### تشغيل البوت 24 ساعة 
-> `Repl.it` عشان تشغل بوت 24 ساعة بنصحك تستخدم موقع [repl.it]( https://repl.it/github/MeKINGMAN/Weather-Bot )
+> `Repl.it` عشان تشغل بوت 24 ساعة بنصحك تستخدم موقع [repl.it]( https://repl.it/github/kmkingman/Weather-Bot )
